@@ -4,7 +4,7 @@
 
 <br>
 
-# Histoire
+## Histoire
 
 > Fast and beautiful interactive component playgrounds
 
@@ -20,7 +20,7 @@
 👓 Build and visually test your components in isolation  
 📚 Document your components with stories and variants  
 📝 Generate source code examples automatically  
-🎨 Beautiful and customizable interface  
+🎨 Beautiful and customizable interface
 
 ![screenshot](./screenshot.png)
 
